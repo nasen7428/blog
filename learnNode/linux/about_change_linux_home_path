@@ -1,0 +1,3 @@
+easy way,change /env/passwd .
+be careful ,need to copy some .* file from the default path to new path.
+use cp a/b/.* ~ copy the file
